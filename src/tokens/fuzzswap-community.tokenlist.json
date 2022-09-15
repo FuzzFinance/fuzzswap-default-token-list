@@ -30,7 +30,7 @@
       "chainId": 1666600000,
       "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
       "symbol": "SONIC",
-      "name": "Sonic",
+      "name": "SonicSwap",
       "decimals": 18,
       "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/sonic.png"
     }
