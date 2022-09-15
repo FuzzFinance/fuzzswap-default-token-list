@@ -24,7 +24,7 @@
       "symbol": "SONIC",
       "name": "Sonic",
       "decimals": 18,
-      "logoURI": "https://sonicswap.io/tokens/sonic_coin.png"
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/sonic.png"
     }
   ]
 }
