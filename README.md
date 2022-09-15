@@ -10,6 +10,8 @@ This NPM module and GitHub repo contains the default token list used in the Unis
 To request that we add a token to the list, 
 [file an issue](https://github.com/FuzzFinance/fuzzswap-default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
+Provide the project name, symbol, contract address, logo URL and your contact information. We will only list projects requested by project founders / leads.
+
 ### Disclaimer
 
 Note filing an issue does not guarantee addition to this default token list.
