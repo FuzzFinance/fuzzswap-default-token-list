@@ -18,6 +18,14 @@
     "decimals": 18,
     "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
   },
+       {
+      "chainId": 1666600000,
+      "address": "0x4a986Bb7909D361F3191Ea08d0C4B328295841A4",
+      "symbol": "MTOP",
+      "name": "MtopSwap",
+      "decimals": 18,
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/mtop.png"
+    },
    {
       "chainId": 1666600000,
       "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
