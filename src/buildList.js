@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
-const harmonyMainnet = require("./tokens/harmony-mainnet.json");
-const harmonyTestnet = require("./tokens/harmony-testnet.json");
+const fuzzDefault = require("./tokens/fuzzswap-default.tokenlist.json");
+const fuzzCommunity = require("./tokens/fuzzswap-community.tokenlist.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -15,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://d2ewbo85l33h8t.cloudfront.net/tokens/fuzzfinance.png",
     keywords: ["fuzzswap", "default"],
-    tokens: [...harmonyMainnet, ...harmonyTestnet]
+    tokens: [...fuzzDefault, ...fuzzCommunity]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
