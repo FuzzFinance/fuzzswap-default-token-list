@@ -1,0 +1,30 @@
+{
+  "name": "FuzzSwap Extended",
+  "timestamp": "2022-09-15T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/fuzzfinance.png",
+  "keywords": ["fuzz", "fuzzfinance", "default"],
+  "tokens": [
+      {
+    "chainId": 1666600000,
+    "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+    "symbol": "FOX",
+    "name": "FOX Finance",
+    "decimals": 18,
+    "logoURI": "https://cdn.discordapp.com/attachments/886494799320997889/887094958358687754/fox.png"
+  },
+   {
+      "chainId": 1666600000,
+      "address": "0x1e05C8B69e4128949FcEf16811a819eF2f55D33E",
+      "symbol": "SONIC",
+      "name": "Sonic",
+      "decimals": 18,
+      "logoURI": "https://sonicswap.io/tokens/sonic_coin.png"
+    },
+  ]
+}
