@@ -1,34 +1,54 @@
-[
-  {
-    "chainId": 1666600000,
-    "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
-    "symbol": "WONE",
-    "name": "Wrapped ONE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+{
+  "name": "FuzzSwap Default",
+  "timestamp": "2022-09-15T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   },
-  {
-    "chainId": 1666600000,
-    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
-    "symbol": "BUSD",
-    "name": "Binance USD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0x655A0fB3908d57d1C0B21295619d084c550d0715",
-    "symbol": "FUZZ",
-    "name": "Fuzz Finance",
-    "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
-  },
-  {
-    "chainId": 1666600000,
-    "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
-    "symbol": "VIPER",
-    "name": "Viper",
-    "decimals": 18,
-    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
-  }
-]
+  "tags": {},
+  "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/fuzzfinance.png",
+  "keywords": ["fuzz", "fuzzfinance", "default"],
+  "tokens": [
+    {
+      "name": "Fuzz Finance Token",
+      "symbol": "FUZZ",
+      "address": "0x984b969a8e82f5ce1121ceb03f96ff5bb3f71fee",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/fuzzfinance.png"
+    },
+    {
+      "name": "WONE Token",
+      "symbol": "WONE",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    },
+    {
+      "name": "Stably USD",
+      "symbol": "USDS",
+      "address": "0x471f66F75af9238A2FA23bA23862B5957109fB21",
+      "chainId": 1666600000,
+      "decimals": 6,
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/0x471f66F75af9238A2FA23bA23862B5957109fB21.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+      "symbol": "1USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/0x985458E523dB3d53125813eD68c274899e9DfAb4.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+      "symbol": "UST",
+      "name": "Wrapped UST Token",
+      "decimals": 18,
+      "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/0x224e64ec1BDce3870a6a6c777eDd450454068FEC.png"
+    }
+  ]
+}
