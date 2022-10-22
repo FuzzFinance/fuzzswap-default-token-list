@@ -33,6 +33,15 @@
       "name": "SonicSwap",
       "decimals": 18,
       "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/sonic.png"
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x81E9E682d2d7F016Ff7c3D17567Ee7511f29f653",
+      "symbol": "FISHFOOD",
+      "name": "FishFight FishFood",
+      "decimals": 18,
+      "logoURI": "https://bafybeifuaahkz6lvcxkbnvhq3wp3elgupqa27g27voaqxcrzkzxapaxism.ipfs.nftstorage.link/"
     }
+
   ]
 }
