@@ -38,7 +38,7 @@
       "chainId": 1666600000,
       "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
       "symbol": "1USDC",
-      "name": "USD Coin",
+      "name": "USD Coin (Unbacked)",
       "decimals": 6,
       "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/0x985458E523dB3d53125813eD68c274899e9DfAb4.png"
     },
@@ -46,7 +46,7 @@
       "chainId": 1666600000,
       "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
       "symbol": "UST",
-      "name": "Wrapped UST Token",
+      "name": "Wrapped UST Token (Unbacked)",
       "decimals": 18,
       "logoURI": "https://fuzzfinance.s3.us-west-2.amazonaws.com/tokens/0x224e64ec1BDce3870a6a6c777eDd450454068FEC.png"
     }
